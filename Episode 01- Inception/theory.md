@@ -4,8 +4,7 @@ A: Emmet is the essential toolkit for web-developers. It allows you to type shor
 
 🚀🚀 Note -- (write <!> and then tab || <html:5> --> this will give boiler plate of html)
 
-create hello world by html
--------------------------- 1. using html :
+     # create hello world by html
 
         <!DOCTYPE html>
         <html lang="en">
